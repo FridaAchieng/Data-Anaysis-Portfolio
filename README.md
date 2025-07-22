@@ -5,7 +5,7 @@ This repository showcases my skills in data analysis using a variety of tools, i
 # Featured Projects
 
 ## Excel
-[Excel/Superstore Sales Data Cleaning Using Power Query](Excel/Superstore Sales Data Cleaning Using Power Query)
+[Superstore Sales Data Cleaning Using Power Query](Excel/Superstore%20Sales%20Data%20Cleaning%20Using%20Power%20Query)
 
 ## SQL
 
