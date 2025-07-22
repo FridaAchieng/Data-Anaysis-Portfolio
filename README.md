@@ -5,6 +5,7 @@ This repository showcases my skills in data analysis using a variety of tools, i
 # Featured Projects
 
 ## Excel
+[Link Text](relative/path/to/your/file.extension)
 
 ## SQL
 
