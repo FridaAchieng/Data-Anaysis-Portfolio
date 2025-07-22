@@ -1,4 +1,4 @@
-## Superstore Sales Data Cleaning Using Power Query
+### Superstore Sales Data Cleaning Using Power Query
 
 ## The Challenge
 
@@ -22,7 +22,7 @@ To create a **clean, consistent, and analysis-ready dataset** using Power Query 
 
 The following image summarizes the key data quality issues identified and the resolutions applied during the cleaning process:
 
-![Data Quality Log](Screenshots/data_quality_log.png)
+![Data Quality Log](Screenshots/Data%20Quality%20Log.png)
 
 ---
 
@@ -30,7 +30,7 @@ The following image summarizes the key data quality issues identified and the re
 
 The image below illustrates a sample of the raw data alongside the cleaned, structured data after applying Power Query transformations:
 
-![Before and After Data](Screenshots/before_after_table.png)
+![Before and After Data](Screenshots/raw_clean.png)
 
 ---
 
@@ -38,7 +38,7 @@ The image below illustrates a sample of the raw data alongside the cleaned, stru
 
 The following screenshot shows the applied steps in Power Query that were used to clean and transform the data:
 
-![Applied Steps](Screenshots/applied_steps.png)
+![Applied Steps](Screenshots/powerquery.png)
 
 ---
 
